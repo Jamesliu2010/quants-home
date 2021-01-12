@@ -1,6 +1,6 @@
 # James Liu's Quants Home
 
-A curated list of insanely libraries, packages and resources for Quants (Quantitative Finance)
+A curated list of insanely libraries, packages and resources for Quants (Quantitative Finance) //Copy from wilsonfreitas/awesome-quant
 
 ### Numerical Libraries & Data Structures
 
